@@ -3,6 +3,11 @@
 ## Common
 
 * http://12factor.net/
+* Tasks
+  * Operating Systems
+  * Dependencies
+  * Services
+  * Links
 
 ## Development
 
