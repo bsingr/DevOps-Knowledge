@@ -67,7 +67,13 @@ Typical tasks:
 
 ### dokku
 
+* 12factor
+
 ### Gilliam
+
+* 12factor
+* micro service architecture
+* http://gilliam.github.io/
 
 ### Deis
 
