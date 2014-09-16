@@ -75,6 +75,11 @@ Typical tasks:
 * micro service architecture
 * http://gilliam.github.io/
 
+### Weave
+
+* Docker cross-cloud network
+* https://github.com/zettio/weave
+
 ### Deis
 
 System
