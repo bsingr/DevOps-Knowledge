@@ -18,6 +18,11 @@ Typical tasks:
 * Develop service internals
 * Develop service deployment interface
 
+### Virtualization
+
+* vagrant
+* packer
+
 ### Docker on OSX
 
 * boot2docker
