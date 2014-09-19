@@ -22,6 +22,7 @@ Typical tasks:
 
 * vagrant
 * packer
+* libcontainer vs lxc vs jails
 
 ### Docker on OSX
 
