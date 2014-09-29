@@ -69,6 +69,12 @@ Typical tasks:
 - CFEngine
 - …
 
+### Service Discovery
+
+- [Consul.io](http://www.consul.io/)
+- ZeroConf
+- ...
+
 ## PaaS
 
 ### dokku
