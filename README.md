@@ -55,6 +55,12 @@ Typical tasks:
 - links + ambassadors (via socat reverse proxying)
 - links + ambassadors + serf (for service-discovery)
 
+### Kubernetes
+
+- Google
+- Docker
+- http://kubernetes.io/
+
 ### CoreOS
 
 - systemd service configuration
